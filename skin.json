@@ -7,21 +7,18 @@
 	"license-name": "FREE LICENSE",
 	"type": "skin",
 	"ValidSkinNames": {
-		"kiwitic": "Kiwitic"
+		"satalin": "Satalin"
 	},
 	"AutoloadClasses": {
-		"SkinKiwitic": "kiwitic.skin.php"
+		"SkinSatalin": "SatalinSkin.php"
 	},
 	"MessageDirs": {
-		"kiwitic": "i18n"
+		"satalin": "i18n"
 	},
 	"ResourceModules": {
 		"skins.kiwitic": {
 			"styles": {
 				"css/bootstrap.min.css": {
-					"media": "all"
-				},
-				"css/common.css": {
 					"media": "all"
 				},
 				"css/theme.css": {
@@ -47,6 +44,6 @@
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteSkinPath": "kiwitic"
+		"remoteSkinPath": "satalin"
 	}
 }

@@ -1,4 +1,10 @@
-# Kiwitic
-키위위키 기본 스킨(Thanks for https://wsilog.xyz 2DU)
+# Satalin
 
-원본 : https://github.com/2DU/acme
+
+## Install
+
+Create Dir "satalin"
+
+Put Files
+
+Add "wfLoadSkin( 'satalin' );" in Your LocalSettings.php
